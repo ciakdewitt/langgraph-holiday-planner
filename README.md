@@ -4,7 +4,8 @@
 
 Ensure you're using Python 3.11 or later.
 
-Launch your `anaconda_prompt` cmd line from Anaconda Navigator and create your environment with `conda create --name myenv` then `conda install jupyter`.<br>
+Launch your `anaconda_prompt` cmd line from Anaconda Navigator.<br>
+Create your environment with `conda create --name myenv` then `conda install jupyter`.<br>
 Python libraries that need to be install are set in the first part `.ipynb` Notebook.
 
 ## Scope
